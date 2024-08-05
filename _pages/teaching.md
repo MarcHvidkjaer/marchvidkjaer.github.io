@@ -4,10 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+* *Spring 2024*: Quantitative Methods, 1st year BSc course, University of Copenhagen, TA for Associate Professor Carolin Rapp
 * *Fall 2023*: Comparative Politics III, 3rd year BSc course, University of Copenhagen, TA for Professor Jacob Hariri
 
-I created a [podcast](http://medandreord.dk/maos-nye-podcast-det-akademiske-kvarter/) as a compendium to the course. It was made in collaboration with the other TAs, who guested the podcast.
+I created a [podcast](http://medandreord.dk/maos-nye-podcast-det-akademiske-kvarter/) as a compendium to the course in Comparative Politics. It was made in collaboration with the other TAs, who guested the podcast.
 * [Economic Development and Democracy](https://podcasts.apple.com/dk/podcast/%C3%B8konomisk-udvikling-demokrati/id1644873072?i=1000579321369) with Benedikte Grundtvig Huber
 * [States & Empires](https://podcasts.apple.com/dk/podcast/stater-imperier/id1644873072?i=1000579371705) with Benedikte Grundtvig Huber
 * [From Early Parliaments to Modern Democracy](https://podcasts.apple.com/dk/podcast/fra-tidlige-parlamenter-til-moderne-demokratier/id1644873072?i=1000580560652) with Aksel Hvid
