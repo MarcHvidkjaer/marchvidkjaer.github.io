@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Marc Sabatier Hvidkjaer"
   avatar           : "profile_black_2022.jpeg"
-  bio              : "Master's student in Political Science at the University of Copenhagen, RA at Aarhus University"
-  location         : "Princeton, New Jersey"
+  bio              : "PhD Student, "
+  location         : "Somerville, Massachusetts"
   employer         :
   googlescholar    : 
-  email            : "marchvidkjaer@gmail.com"
+  email            : "marchvidkjaer@fas.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
