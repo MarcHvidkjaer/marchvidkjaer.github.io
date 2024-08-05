@@ -5,7 +5,10 @@ permalink: /media/
 author_profile: true
 ---
 I write op-eds, essays and book reviews regularly, and I've been interviewed in various formats. I've also written some articles on Medium with an emphasis on Political Science, which can be [found here](https://medium.com/@marcsabatierhvidkjaer). Here is a non-exhaustive list of appearances and contributions in the media:
+https://uniavisen.dk/kan-man-virkelig-blive-cand-scient-pol-uden-at-have-vaeret-til-eksamen-paa-ku/
 
+* [”Regningen for krudt og kugler”]([https://www.weekendavisen.dk/2023-16/ideer/gaeld-til-folket](https://www.weekendavisen.dk/ideer/regningen-for-krudt-og-kugler)), Weekendavisen, 14.04.24
+* [”Kan man virkelig blive cand.scient.pol uden at have været til eksamen på KU?”]([https://www.weekendavisen.dk/2023-16/ideer/gaeld-til-folket](https://uniavisen.dk/kan-man-virkelig-blive-cand-scient-pol-uden-at-have-vaeret-til-eksamen-paa-ku/)), Uniavisen, 10.01.24
 * [”Gæld til folket”](https://www.weekendavisen.dk/2023-16/ideer/gaeld-til-folket), written with [Andreas Wiedemann](https://www.abwiedemann.com/), Weekendavisen, 24.04.23
 * [”Gør Danmark mere for verdens fattige end Qatar?”](https://politiken.dk/debat/debatindlaeg/art9092733/Studerende-G%C3%B8r-Danmark-mere-for-verdens-fattige-end-Qatar), Politiken, 24.11.22
 * [”Fremskridt bliver konkret, når man får kræft som 22-årig”](https://www.berlingske.dk/kronikker/fremskridt-bliver-konkret-naar-man-faar-kraeft-som-22-aarig), Berlingske, 06.08.22
