@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at the Department of Government at Harvard University. My research interests lie broadly in Comparative Political Economy and Political Behavior. I am mainly interested the politics of inequality and welfare state development in advanced capitalistic democracies.
+I am a Ph.D. student at the Department of Government at Harvard University. My research interests lie broadly in Comparative Political Economy and Political Behavior. I am mainly interested the politics of inequality and welfare state development in advanced capitalistic democracies. At Harvard, I am affiliated with the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/) and the [Minda de Gunzburg Center for European Studies](https://ces.fas.harvard.edu/). 
 
 Before coming to Harvard, I received my BSc and MSc in Political Science (_Statskundskab_) at the University of Copenhagen. While studying, I taught Quantitative Methods and Comparative Politics, worked as a research assistant at Aarhus University, and worked in consulting. I regularly contribute to the leading national newspapers in Denmark, where a list of my writings can be seen on my [media page](https://marchvidkjaer.github.io//media/). 
 
