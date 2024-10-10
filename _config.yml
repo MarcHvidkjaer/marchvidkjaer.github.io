@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Marc Sabatier Hvidkjaer"
   avatar           : "profile_black_2022.jpeg"
-  bio              : "PhD Student, "
-  location         : "Somerville, Massachusetts"
+  bio              : "PhD Student, Harvard University"
+  location         :
   employer         :
   googlescholar    : 
   email            : "marchvidkjaer@fas.harvard.edu"
