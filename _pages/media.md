@@ -4,9 +4,8 @@ title: "Media"
 permalink: /media/
 author_profile: true
 ---
-I write op-eds, essays and book reviews regularly, and I've been interviewed in various formats. I've also written some articles on Medium with an emphasis on Political Science, which can be [found here](https://medium.com/@marcsabatierhvidkjaer). Here is a non-exhaustive list of appearances and contributions in the media:
-https://uniavisen.dk/kan-man-virkelig-blive-cand-scient-pol-uden-at-have-vaeret-til-eksamen-paa-ku/
-
+I write op-eds, essays and book reviews regularly, and I've been interviewed in various formats. I have also written on [Substack](https://marchvidkjaer.substack.com/) and [Medium](https://medium.com/@marcsabatierhvidkjaer). Here is a non-exhaustive list of appearances and contributions in the media:
+* [”Falsk Føring”](https://www.weekendavisen.dk/2024-38/ideer/falsk-foering), Weekendavisen, 17.04.24
 * [”Regningen for krudt og kugler”](https://www.weekendavisen.dk/ideer/regningen-for-krudt-og-kugler), Weekendavisen, 14.04.24
 * [”Kan man virkelig blive cand.scient.pol uden at have været til eksamen på KU?”](https://uniavisen.dk/kan-man-virkelig-blive-cand-scient-pol-uden-at-have-vaeret-til-eksamen-paa-ku/), Uniavisen, 10.01.24
 * [”Gæld til folket”](https://www.weekendavisen.dk/2023-16/ideer/gaeld-til-folket), written with [Andreas Wiedemann](https://www.abwiedemann.com/), Weekendavisen, 24.04.23
