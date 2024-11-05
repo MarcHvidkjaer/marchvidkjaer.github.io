@@ -194,12 +194,12 @@ figure {
     margin-bottom: 1em;
   }
 
-  img {
-    width: 100%;
-    border-radius: $border-radius;
-    -webkit-transition: $global-transition;
-    transition: $global-transition;
-  }
+ img {
+  width: 100%;
+  border-radius: 0; // Ensure images are square
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+}
 
   > a {
     display: block;
